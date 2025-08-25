@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ashraful Pathan",
+      "username": "isho18",
+      "email": "ashraful@example.com",
+      "age": 18,
+      "country": "Bangladesh",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Sadia Ahmed",
+      "username": "sadia99",
+      "email": "sadia@example.com",
+      "age": 22,
+      "country": "Bangladesh",
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "name": "Rahim Uddin",
+      "username": "rahim07",
+      "email": "rahim@example.com",
+      "age": 25,
+      "country": "India",
+      "isActive": true
+    }
+  ]
+}
