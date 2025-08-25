@@ -1,4 +1,4 @@
 # host image
- image hosing site for royal restaurant website
+<p>image hosing site for royal restaurant website</p> 
  
 - version 1.2
